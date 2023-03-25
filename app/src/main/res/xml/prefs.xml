@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="@string/lp_title"
+        android:summary="@string/lp_desc"
+        android:key="move_speed"
+        android:entries="@array/speed_labels"
+        android:entryValues="@array/speed_values"
+        android:defaultValue="6" />
+    <CheckBoxPreference
+        android:title="@string/cb1_title"
+        android:defaultValue="true"
+        android:summaryOff="@string/cb1_off"
+        android:summaryOn="@string/cb1_on"
+        android:key="soundFX_option" />
+    <CheckBoxPreference
+        android:title="@string/cb2_title"
+        android:defaultValue="true"
+        android:summaryOff="@string/cb2_off"
+        android:summaryOn="@string/cb2_on"
+        android:key="music_option" />
+    <ListPreference
+        android:title="@string/list1_title"
+        android:summary="@string/list1_desc"
+        android:key="background_music"
+        android:entries="@array/bg_options"
+        android:entryValues="@array/bg_options"
+        android:defaultValue="First Steps" />
+    <ListPreference
+        android:title="@string/list2_title"
+        android:summary="@string/list2_desc"
+        android:key="game_mode"
+        android:entries="@array/modes"
+        android:entryValues="@array/modes"
+        android:defaultValue="@string/mode_counting" />
+</PreferenceScreen>

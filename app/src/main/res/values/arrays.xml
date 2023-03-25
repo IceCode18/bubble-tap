@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="speed_labels">
+        <item>Slow</item>
+        <item>Medium</item>
+        <item>Fast</item>
+    </string-array>
+    <string-array name="speed_values">
+        <item>4</item>
+        <item>6</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="bg_options">
+        <item>First Steps</item>
+        <item>Pluck Loop</item>
+    </string-array>
+    <string-array name="modes">
+        <item>@string/mode_counting</item>
+        <item>@string/mode_alpha</item>
+        <item>@string/mode_spell</item>
+        <item>@string/mode_multiples</item>
+        <item>@string/mode_revMult</item>
+    </string-array>
+</resources>

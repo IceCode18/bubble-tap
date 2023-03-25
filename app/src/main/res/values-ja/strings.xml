@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Bubble Tap</string>
+    <string name="main_title">Bubble Tap</string>
+    <string name="about_title">Bubble Tap</string>
+    <string name="about_message">バブルタップの楽しみに備えてください！このゲームは簡単に遊べます。ゲームの指示に従って、動くバブルを正しい順序でタップするだけです。正しい順序でどんどんバブルをタップして、レベルを進めましょう。バブルをタップする速さが速いほど、得点も高くなります！</string>
+    <string name="about_neutral">はい</string>
+    <string name="mode_counting">カウント</string>
+    <string name="mode_alpha">アルファベット</string>
+    <string name="mode_spell">スペル</string>
+    <string name="mode_multiples">倍数</string>
+    <string name="mode_revMult">逆の倍数</string>
+    <string name="d_score">スコア:\u0020</string>
+    <string name="d_level">レベル:\u0020</string>
+    <string name="d_highest">最高点:\u0020</string>
+    <string name="d_bonus">ボーナス:\u0020</string>
+    <string name="counting_tryAgain">間違った球体です！もう一度やり直してください。</string>
+    <string name="alpha_tryAgain">間違った球体です!\"%1$s\"を押してください。 </string>
+    <string name="mult_nextLevel">\"%1$d\"の倍数。</string>
+    <string name="mult_tryAgain">間違った球体です！　\"%1$d\"の次の倍数を押してください。</string>
+    <string name="revMult_nextLevel">\"%1$d\"の逆の倍数を押してください。</string>
+    <string name="revMult_tryAgain">   間違った球体です！　\"%1$s\"を押してください。</string>
+    <string name="spell_nextLevel">\"%1$s\"のつづりを押してください。</string>
+    <string name="spell_tryAgain">間違った球体です！　\"%1$s\"を押してください。</string>
+    <string name="game_over">ゲーム終了！</string>
+    <string name="play_again_msg">おめでとう！このゲームをクリアしました。もっとスキルを上げるためにもう一度プレイしますか？\n</string>
+    <string name="high_score_msg">おめでとう！ハイスコアです！！！このゲームをクリアしました。もっとスキルを上げるためにもう一度プレイしますか？ \n</string>
+    <string name="player">プレイヤー</string>
+    <string name="score">スコア</string>
+    <string name="yes">はい！</string>
+    <string name="no">いいえ！</string>
+    <string name="edit_hint">名前を入力して</string>
+    <string name="unknown">名無し</string>
+    <string name="lp_title">はやさ</string>
+    <string name="lp_desc">球体の速さを調節します</string>
+    <string name="cb1_title">効果音</string>
+    <string name="cb1_off">効果音なし</string>
+    <string name="cb1_on">効果音あり</string>
+    <string name="cb2_title">BGMの調節</string>
+    <string name="cb2_off">BGMなし</string>
+    <string name="cb2_on">BGMあり</string>
+    <string name="list1_title">BGM</string>
+    <string name="list1_desc">BGMを選んでください</string>
+    <string name="list2_title">ゲームモード</string>
+    <string name="list2_desc">ゲームモードを選んでください</string>
+
+</resources>
