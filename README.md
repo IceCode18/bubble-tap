@@ -1,4 +1,4 @@
-# Bubble Tap Android
+# Bubble Tap Android Mobile App
 Bubble Tap is an engaging and educational Android game designed for children under 8 years old. Its aim is to help young children develop essential skills such as memory, coordination, counting, and spelling, all while having fun!
 
 <h3>Game Mechanics</h3>
